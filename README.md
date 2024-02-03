@@ -68,7 +68,7 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulte el archiv
 
 1. Agregar el repositorio original como "upstream":
 
-> git remote add upstream https://github.com/JuanManiglia/DS_PT_09_2023.git
+> git remote add upstream https://github.com/JonGSalinas/DS_PT_02_2024.git
 
 
 2. Obtener los cambios del repositorio original:
