@@ -7,7 +7,8 @@
 3. [Ventajas de Python en ciencia de datos](#seccion3)
 4. [¿Qué es una terminal y cómo se usa?](#seccion4)
 5. [Escribir y ejecutar código](#seccion5)
-6. [Recursos adicionales y referencias](#seccion6)
+6. [Aviso a Navegantes](#seccion6)
+7. [Recursos adicionales y referencias](#seccion7)
 
 <a name="seccion1"></a>
 ## 1. ¿Qué es un lenguaje de programación?
@@ -89,7 +90,7 @@ Esto imprimirá "Hola, mundo!" en la terminal, igual que antes.
 
 <a name="seccion6"></a>
 ## 6. Aviso a Navegantes
-![imagen](Practica/img/EnriqueNavegante.jpg)
+![imagen](img/EnriqueNavegante.jpg)
 
 Cada lenguaje de programación es distinto a los demás y tiene características y pecularidades que es importante conocer y tener en cuenta. 
 Por ejemplo, aunque este código de python puede ser ejecutar para a = 1, fallará para cualquier otro valor de a ya que hemos escrito pritn() en lugar de print().
