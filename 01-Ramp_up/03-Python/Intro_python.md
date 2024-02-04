@@ -92,6 +92,8 @@ Esto imprimirá "Hola, mundo!" en la terminal, igual que antes.
 ## 6. Aviso a Navegantes
 ![imagen](img/EnriqueNavegante.jpg)
 
+En realidad, no es necesario usar la extensión .py en tus programas: puedes usar el bloc de notas para generar un archivo sin extensión y se ejecutará, siemrpe y cuando el código sea correcto. Sin embargo, es muy útil para que sean reconocidos como tales por otras aplicaciones (como VS Code)
+
 Cada lenguaje de programación es distinto a los demás y tiene características y pecularidades que es importante conocer y tener en cuenta. 
 Por ejemplo, aunque este código de python puede ser ejecutar para a = 1, fallará para cualquier otro valor de a ya que hemos escrito pritn() en lugar de print().
 
