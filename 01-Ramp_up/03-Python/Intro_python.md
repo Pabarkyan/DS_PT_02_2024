@@ -86,8 +86,45 @@ $ python hola_mundo.py
 
 Esto imprimirá "Hola, mundo!" en la terminal, igual que antes.
 
+
 <a name="seccion6"></a>
-## 6. Recursos adicionales y referencias
+## 6. Aviso a Navegantes
+![imagen](Practica/img/EnriqueNavegante.jpg)
+
+Cada lenguaje de programación es distinto a los demás y tiene características y pecularidades que es importante conocer y tener en cuenta. 
+Por ejemplo, aunque este código de python puede ser ejecutar para a = 1, fallará para cualquier otro valor de a ya que hemos escrito pritn() en lugar de print().
+
+```bash
+a = 1
+if (a == 1):
+    print("Hola mundo")
+else:
+    pritn("Hola tierra")
+```    
+
+Otros lenguajes, como C/C++, no permite ejecutar dicho código en ningún caso.
+
+```bash
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int a;
+	a = 1;
+	if (a == 1) {
+		cout << a;
+	}
+	else {
+		cotu << a;
+	}
+	return 0;
+}
+
+```    
+
+<a name="seccion7"></a>
+## 7. Recursos adicionales y referencias
 
 - Documentación oficial de Python: https://docs.python.org/3/
 - Tutorial interactivo de Python: https://www.learnpython.org/
