@@ -25,6 +25,9 @@
 #### Tutorías 
 https://calendly.com/jonatan-garcia-pt-ds/30min?month=2024-02&date=2024-02-17
 
+### Guardad todos los ejercicios que resolvais, bien o mal, como prueba de vuestro trabajo
+### Me podéis mandar vuestros notebooks para obtener feedback (voy a dar prioridad a los ramp up vs a los tipo reto)
+
 ### Los ejercicios de Basics deberían estar ya asimilados 
 ### Excepto los de condiciones, pero que al menos, os deben resultar familiares y asequible
 
