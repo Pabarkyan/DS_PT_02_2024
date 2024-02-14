@@ -17,3 +17,24 @@
 8. Hall of Fama: print("*"100) y .isnumeric() vs isdigit() vs .isdecimal()
 
 9. Corección de pequeñas erratas y typos
+
+10. La clase del lunes 12 de febrero de 2024 está subida
+
+#### ESTOY AFÓNICO
+#### Por eso no he grabado los vídeos de Git ni de el día que no se grabó mi pantalla
+#### Tutorías 
+https://calendly.com/jonatan-garcia-pt-ds/30min?month=2024-02&date=2024-02-17
+
+### Los ejercicios de Basics deberían estar ya asimilados 
+### Excepto los de condiciones, pero que al menos, os deben resultar familiares y asequible
+
+### Todavía hay en la reserva más ejercicos básicos que iré subiendo, pero si ya están dominados
+### Y deberían estar dominados, puede que os compense hacer otros más difíciles
+### No perdáis tiempo en hacer cosas que ya sabéis
+
+### De flujos, el while es el más peligroso
+
+### Si existe una tipología de ejercicios que se os atasca, pedid y se os dará
+### Ejemplo: bucles while
+
+### Hoy veremos colecciones: listas, que ya sabemos, y diccionarios, que son muy útiles y se usan mucho en DS. También tuplas, sets... algo menos populares pero que hay que manejar
