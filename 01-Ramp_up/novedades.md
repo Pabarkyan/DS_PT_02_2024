@@ -8,4 +8,6 @@
 
 4. 01-Basics/02-Practica: Ejercicios condiciones enunciados 
 
-5. Corección de pequeñas erratas y typos
+5. 02-Git/git_sencillo: incluye todo lo que se puede preguntar de git en el examen
+
+6. Corección de pequeñas erratas y typos
