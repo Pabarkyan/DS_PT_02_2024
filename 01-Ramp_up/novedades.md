@@ -10,4 +10,6 @@
 
 5. 02-Git/git_sencillo: incluye todo lo que se puede preguntar de git en el examen
 
-6. Corección de pequeñas erratas y typos
+6. Dos ejercicios nuevos de dificultad alta que NO SON DEL RAMP UP NI PROPIAS DE UN DATA SCIENTIST para quienes se aburran y quieran ver mundo
+
+7. Corección de pequeñas erratas y typos
