@@ -4,23 +4,23 @@
 
 2. 01-Basics/02-Practica: Ejercicios condiciones resueltos: con las soluciones
 
-3. 01-Basics/02-Practica: Extra ejercicios para consolidar y repasar resueltos II: con las soluciones
+3. 03-Colecciones/02-Practica: Ejercicios colecciones resueltos: con las soluciones
 
 4. 02-Flujos de Control/02-Practica: Ejercicios Flujos de Control resueltos: con las soluciones
 
-5. 01-Basics/02-Practica: Ejercicios condiciones enunciados 
+5. 99-Extra/Comprueba_tu_nivel basics_to_collections: ejercicios para comprobar tu nivel 
 
-6. 02-Git/git_sencillo: incluye todo lo que se puede preguntar de git en el examen
+6. Hall of Fama: Erratas (diccionarios admite números como keys, incluso con decimales... o booleanos!)
 
-7. Dos ejercicios nuevos de dificultad alta que NO SON DEL RAMP UP NI PROPIAS DE UN DATA SCIENTIST para quienes se aburran y quieran ver mundo
+7. Correción de pequeñas erratas y typos
 
-8. Hall of Fama: Erratas (diccionarios admite números como keys, incluso con decimales... o booleanos!)
+8. 01-Ramp_up: FAQ_Sobre_Examen_Ramp_up: preguntas frecuentes del ramp up
 
-9. Corección de pequeñas erratas y typos
+9. 
 
-10. La clase del lunes 12 de febrero de 2024 está subida
+10. La clase del lunes 14 de febrero de 2024 está subida
 
-#### ESTOY AFÓNICO
+#### ESTOY (MENOS) AFÓNICO
 #### Por eso no he grabado los vídeos de Git ni de el día que no se grabó mi pantalla
 #### Tutorías 
 https://calendly.com/jonatan-garcia-pt-ds/30min?month=2024-02&date=2024-02-17

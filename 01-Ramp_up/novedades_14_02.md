@@ -16,7 +16,7 @@
 
 8. Hall of Fama: print("*"100) y .isnumeric() vs isdigit() vs .isdecimal()
 
-9. Corección de pequeñas erratas y typos
+9. Correción de pequeñas erratas y typos
 
 10. La clase del lunes 12 de febrero de 2024 está subida
 
