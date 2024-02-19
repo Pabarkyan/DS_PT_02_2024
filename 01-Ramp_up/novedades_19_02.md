@@ -8,9 +8,11 @@
 
 4. Hall of Fama: Sobre el bucle For
 
-5. Correción de pequeñas erratas y typos
+5. 99-EXTRA/Ejercicios más alla ramp up: algunas soluciones
 
-6. La clase del viernes 16 de febrero de 2024 está subida
+6. Correción de pequeñas erratas y typos
+
+7. La clase del viernes 16 de febrero de 2024 está subida
 
 
 
