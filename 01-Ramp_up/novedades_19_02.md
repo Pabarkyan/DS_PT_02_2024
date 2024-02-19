@@ -1,23 +1,23 @@
 # Novedades respecto a la clase anterior
 
-1. 03-Colecciones/02-Practica: Extra ejercicios para consolidad y repasar control de flujo: con las soluciones
+1. 03-Colecciones/02-Practica: Extra ejercicios para consolidar y repasar control de fluj respuestas: con las soluciones
 
 2. 04-Funciones/02-Practica: Extra ejercicios y problemas funciones enunciados
 
-3. Hall of Fama: Sobre el bucle For
+3. 99-EXTRA/Comprueba_tu_nivel basics_to_colections_respuestas con las soluciones
 
-4. Correción de pequeñas erratas y typos
+4. Hall of Fama: Sobre el bucle For
 
-5. La clase del viernes 16 de febrero de 2024 está subida
+5. Correción de pequeñas erratas y typos
 
-#### ESTOY (MENOS) AFÓNICO
-#### Por eso no he grabado los vídeos de Git ni de el día que no se grabó mi pantalla
-#### Tutorías 
-https://calendly.com/jonatan-garcia-pt-ds/30min?month=2024-02&date=2024-02-17
+6. La clase del viernes 16 de febrero de 2024 está subida
+
+
+
 
 ### Guardad todos los ejercicios que resolvais, bien o mal, como prueba de vuestro trabajo
 ### Me podéis mandar vuestros notebooks para obtener feedback (voy a dar prioridad a los ramp up vs a los tipo reto)
 
 ### Si existe una tipología de ejercicios que se os atasca, pedid y se os dará
 
-### Hoy empezaremos con funciones
+### Hoy seguiremos con funciones
