@@ -1,6 +1,6 @@
 # Novedades respecto a la clase anterior
 
-1. 03-Colecciones/02-Practica: Extra ejercicios para consolidar y repasar control de fluj respuestas: con las soluciones
+1. 03-Colecciones/02-Practica: Extra ejercicios para consolidar y repasar control de flujo respuestas: con las soluciones
 
 2. 04-Funciones/02-Practica: Extra ejercicios y problemas funciones enunciados
 
