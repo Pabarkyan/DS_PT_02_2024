@@ -1,5 +1,6 @@
 # Novedades respecto a la clase anterior
 
+1. Incluye la carpeta 03-Python\05-OOP
 
 
 4. Hall of Fama: Sobre el bucle For
