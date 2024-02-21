@@ -2,20 +2,15 @@
 
 1. Incluye la carpeta 03-Python\05-OOP
 
-2. 99-Extra/Sobre_el_ramp-up/simulacion_ramp_up: Incluye preguntas de práctica para el test
+2. 99-Extra/01-Sobre_el_ramp-up/simulacion_ramp_up: Incluye preguntas de práctica para el test y el formato del examen
 
+3. 99-Extra/04-Leer_documentacion/documentacion: Incluye ejemplos de como leer y enlaces a guías para escribir documentación
 
+4. Correción de pequeñas erratas y typos
 
-4. Hall of Fama: Sobre el bucle For
+5. La clase del lunes 19 de febrero de 2024 está subida
 
-
-
-6. Correción de pequeñas erratas y typos
-
-7. La clase del lunes 20 de febrero de 2024 está subida
-
-8. Vídeos básicos del git están subidos
-
+6. Vídeos básicos del git están subidos
 
 
 
