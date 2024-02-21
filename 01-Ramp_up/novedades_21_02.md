@@ -2,6 +2,9 @@
 
 1. Incluye la carpeta 03-Python\05-OOP
 
+2. 99-Extra/Sobre_el_ramp-up/simulacion_ramp_up: Incluye preguntas de práctica para el test
+
+
 
 4. Hall of Fama: Sobre el bucle For
 
