@@ -6,13 +6,17 @@
 
 3. Incluye la carpeta 99-Repaso con un mini cheatsheet y multitud de problemas de todo tipo
 
-4. 03-Python/04-Functions/02-Practica Extra ejercicios problemas y funciones_resueltos
+4. Incluido la subcarpeta Propuesta_sabado en el apartado anterior con ejercicios para resolver sábado/lunes
 
-5. Correción de pequeñas erratas y typos
+5. 03-Python/04-Functions/02-Practica Extra ejercicios problemas y funciones_resueltos
 
-6. Incluido el problema más allá del ramp-up "El Dilema del Prisionero" (teoría de juegos, John Nash)
+6. 03-Python/05-OPP/02-Practica Ejercicios Clases y Objetos resueltos
 
-7. La clase del miércoles 21 de febrero de 2024 está subida
+7. Correción de pequeñas erratas y typos
+
+8. Incluido el problema más allá del ramp-up "El Dilema del Prisionero" (teoría de juegos, John Nash)
+
+9. La clase del miércoles 21 de febrero de 2024 está subida
 
 
 
