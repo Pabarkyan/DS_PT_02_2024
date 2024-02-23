@@ -27,7 +27,7 @@
 
 ### Si existe una tipología de ejercicios que se os atasca, pedid y se os dará
 
-### Hoy continuaremos con Modulos
+### Hoy hablaremos de Modulos, aunque no entra en el ramp-up
 
 ### También intentaré corregir los siguientes ejercicios 
 
