@@ -1,22 +1,14 @@
 # Novedades respecto a la clase anterior
 
-1. Incluye la carpeta 03-Python\06-Modules
+1. Las soluciones a los problemas resueltos en clase el viernes y sábado están subidas
 
-2. Incluye la carpeta 03-Python\07-Programacion funcional
-
-3. Incluye la carpeta 99-Repaso con un mini cheatsheet y multitud de problemas de todo tipo
-
-4. Incluido la subcarpeta Propuesta_sabado en el apartado anterior con ejercicios para resolver sábado/lunes
-
-5. 03-Python/04-Functions/02-Practica Extra ejercicios problemas y funciones_resueltos
-
-6. 03-Python/05-OPP/02-Practica Ejercicios Clases y Objetos resueltos
+2. EN pr
 
 7. Correción de pequeñas erratas y typos
 
-8. Incluido el problema más allá del ramp-up "El Dilema del Prisionero" (teoría de juegos, John Nash)
+9. La clase del viernes 23 de febrero de 2024 está subida
 
-9. La clase del miércoles 21 de febrero de 2024 está subida
+10. La clase del sábado 24 de febrero de 2024 está subida
 
 
 
