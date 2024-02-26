@@ -25,6 +25,4 @@
 
 ### También intentaré corregir los siguientes ejercicios 
 
-1. el último de Extra ejercicios para consolidar y repasar control de flujo (que tiene un infame bucle while) pero vamos a usar el True. 
-2.  Celdas 10 (último de sucesiones) y uno de los de while (raiz cuadrada)
-3. Ejericios propuetos en 03-Python/o8-Repaso/02-Propuesta
+1. Ejericios propuetos en 03-Python/o8-Repaso/02-Propuesta
