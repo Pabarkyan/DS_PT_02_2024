@@ -2,13 +2,15 @@
 
 1. Las soluciones a los problemas resueltos en clase el viernes y sábado están subidas
 
-2. EN pr
+2. Enunciados de ejercicios a resolver en clase en 03-Python/o8-Repaso/02-Propuesta
 
-7. Correción de pequeñas erratas y typos
+3. Correción de pequeñas erratas y typos
 
-9. La clase del viernes 23 de febrero de 2024 está subida
+4. La clase del viernes 23 de febrero de 2024 está subida
 
-10. La clase del sábado 24 de febrero de 2024 está subida
+5. La clase del sábado 24 de febrero de 2024 está subida
+
+6. En 99-Extra/01-Sobre_el_Ramp-up/kahoot he incluido un video con solo las preguntas del kahoot e imágenes con las preguntas y respuetas
 
 
 
@@ -25,3 +27,4 @@
 
 1. el último de Extra ejercicios para consolidar y repasar control de flujo (que tiene un infame bucle while) pero vamos a usar el True. 
 2.  Celdas 10 (último de sucesiones) y uno de los de while (raiz cuadrada)
+3. Ejericios propuetos en 03-Python/o8-Repaso/02-Propuesta
