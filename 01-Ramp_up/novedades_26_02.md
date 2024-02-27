@@ -25,4 +25,4 @@
 
 ### También intentaré corregir los siguientes ejercicios 
 
-1. Ejericios propuetos en 03-Python/o8-Repaso/02-Propuesta
+1. Ejericios propuestos en 03-Python/o8-Repaso/02-Propuesta
