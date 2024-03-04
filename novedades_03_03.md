@@ -23,4 +23,6 @@
 
 * Presentación del Core
 
+* Entregables: reto de nivelación/ejercicios/hundir la flota
+
 * Numpy
