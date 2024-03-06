@@ -1,28 +1,24 @@
 # Novedades respecto a la clase anterior
 
-1. Las notas y feedback del ramp-up ya están envíadas. ¡Enhorabuena!
+1. 02-Data_Analysis/02-Pandas contiene materiales respecto a pandas
 
-2. 00-Organización/02-Presentación_Core contiene la Presentación del Core
+2. 02-Data_Analysis/01-Numpy/02-Practica incluye:
 
-3. 01-Ramp_up/04-Examen/02-Examen_DS_PT_2024 contiene el examen con soluciones del ramp up
+* Equlibrio_nash: para ir aprendiendo a resolver ejercicios ambiguos/complejos (Hundir La Flota)
 
-4. 02-Data_Analysis contiene los primeros materiales del Core
+* Aprender_leer_codigo: para ir perdiendo el miedo a trabajar con código ajeno
 
-* Matemáticas pra DS
+3. 99-Extra/05-Artículos_de_interés incluirá pdfs sobre artículos interesantes, no siempre estrictamente técnicos
 
-* Numpy
-
-* Desafio
-
-
+4. hallfama: Dictionary Comprehension como elegante solución al problema de la moda
 
 
 ### Hoy en clase veremos:
 
-* Pequeño comentario sobre el examen del ramp up
+* Revisar la parte final de la Teoría de Numpy (altura de los presidentes de EEUU y leer imágenes en Numpy)
 
-* Presentación del Core
+* Solución de un par de problemas sencillos de Numpy
 
-* Entregables: reto de nivelación/ejercicios/hundir la flota
+* Algebra Lineal (repaso de Numpy, en verdad)
 
-* Numpy
+
