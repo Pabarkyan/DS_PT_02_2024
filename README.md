@@ -91,3 +91,6 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulte el archiv
 Con estos pasos, tu fork estará actualizado con los últimos cambios del repositorio original.
 
 ![Fork de GitHub](https://miro.medium.com/v2/resize:fit:1400/1*qOtT_fhdwzty5T_AylY8YQ.png)
+
+# DS_PT_02_2024
+Data science
