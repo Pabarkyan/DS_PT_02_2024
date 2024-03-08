@@ -123,6 +123,8 @@ np.max(L) # idem
 m = np.random.random((3,4))
 print(m.sum(axis=0)) # aplicamos dicha operacion al primer eje, idem con min y max
 
+#ALGEBRA
+
 x = np.eye(2) # creando una matriz identidad 3x3
 detx = np.linalg.det(x) # calculo de determinantes
 x_inv = np.linalg.inv(x) # calculo de inversa
@@ -131,3 +133,8 @@ A = np.array([[4, 7],
 A_inv = np.linalg.inv(A) # calculo de inversa
 A.dot(x) # AxI = A
 
+A = np.array([[1, 2, 3],
+              [2, 5, 2],
+              [6, -3, 1]])
+b = np.array([6, 4, 2])
+variables = np.linalg.solve(A, b) # Resolver sistemas de ecuaciones
