@@ -58,7 +58,58 @@ indA.intersection(indB) # Este si
 indA.union(indB) # union
 indA.difference(indB)  # symmetric difference
 
-data = pd.read_csv('/url') # Leer un CSV
+#data = pd.read_csv('/url') # Leer un CSV
+data = {'California': 38332521,
+                   'Texas': 26448193,
+                   'New York': 19651127,
+                   'Florida': 19552860,
+                   'Illinois': 12882135}
+data = pd.Series(population_dict)
 data.head() # Salen los 5 primeros, vale para cualquier tabla, no tiene porque ser CSV si o si
 
 data.columns = [""] # Para cambiar sus columnas (los titulos)
+data.keys() # a pesar de no ser un diccionario, podemos aplicar keys
+list(data.items())
+
+
+# Cuando estamos en pandas el "and" lo tenemos que sustituir poru n "&"
+# idem con el or y | y not con  ~ (Alt Gr + 4)
+
+data = pd.Series([0.25, 0.5, 0.75, 1.0],
+                 index=['a', 'b', 'c', 'd'])
+data[(data > 0.3) & (data < 0.8)]
+data[(data>0.5)&(data<=1)]
+data[(data==0.5)|(data==1)]
+data[data.isin([1, 0.5])] # idem al de arriba, ns como es
+
+data.loc # Permite la indexacion y el corte que siempre hace referencia al indice explicito
+data.iloc # Permite indexar y slicing que siempre hace referencia al indice implicito estilo Python
+
+###
+area = pd.Series({'California': 423967, 'Texas': 695662,
+                  'New York': 141297, 'Florida': 170312,
+                  'Illinois': 149995})
+pop = pd.Series({'California': 38332521, 'Texas': 26448193,
+                 'New York': 19651127, 'Florida': 19552860,
+                 'Illinois': 12882135})
+
+data = pd.DataFrame({'area':area, 'pop':pop})
+
+data['area'] # es equivalente a data.area aunque  esta ultima forma es muy mala practica
+# CUIDADO con poner nombres que igualan a metodos (pop)
+data.pop # Uqtilizamos mejor data['pop']
+
+
+# Generacion de columnas
+data['density'] = data['pop'] / data['area']
+print(data.T) # Traspuesta de la matriz
+
+print(data.loc["Texas":"New York", "pop":"density"]) #Podemos elegir de esta manera lo que sacar
+print(data.loc[data.density > 100, ["pop", "density"]])
+
+# Mostrar el area de los estados cuya poblacion sea mas de 20 millones de habitantes
+print(data.loc[data['pop'] > 20_000_000, ["area"]]) # No utilizamos el .pop para que no lo confunda con el metodo
+print(data[data['pop'] > 20_000_000]['area'])
+# La diferencia es que uno devuvlve un type serie y otro devuelve un dataframe
+
+# El iloc no se usa demasiado
