@@ -1,24 +1,25 @@
 # Novedades respecto a la clase anterior
 
-1. 02-Data_Analysis/02-Pandas contiene materiales respecto a pandas
+1. 97-Desafio/Fases Desarrollo contiene una breve introducción al ciclo del desarrollo software y algún tip para el desafío
 
-2. 02-Data_Analysis/01-Numpy/02-Practica incluye:
+2. 02-Data_Analysis/00-Matematicas_DS/02-Practica contiene ejercicios resueltos de Algebra Lineal
 
-* Equlibrio_nash: para ir aprendiendo a resolver ejercicios ambiguos/complejos (Hundir La Flota)
+3. hallfama: Incrustar imágenes directamente de Internet con Markdown
 
-* Aprender_leer_codigo: para ir perdiendo el miedo a trabajar con código ajeno
+4. Corrección pequeños errores y typos
 
-3. 99-Extra/05-Artículos_de_interés incluirá pdfs sobre artículos interesantes, no siempre estrictamente técnicos
-
-4. hallfama: Dictionary Comprehension como elegante solución al problema de la moda
 
 
 ### Hoy en clase veremos:
 
-* Revisar la parte final de la Teoría de Numpy (altura de los presidentes de EEUU y leer imágenes en Numpy)
+* Revisar la parte final de la Teoría de Numpy (creación de arrays con dtype e índices)
 
-* Solución de un par de problemas sencillos de Numpy
+* Algebra Lineal: sistemas de ecuaciones
 
-* Algebra Lineal (repaso de Numpy, en verdad)
+* Algebra Lineal: ejercicios resueltos
+
+* Pandas
+
+* Fases del ciclo de desarrollo software
 
 
