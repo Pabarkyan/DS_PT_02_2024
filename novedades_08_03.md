@@ -1,6 +1,6 @@
 # Novedades respecto a la clase anterior
 
-1. 02-Data_Analysis/02-Pandas contiene materiales respecto a pandas
+1. 97-Desafio/Fases Desarrollo contiene una breve introducción al ciclo del desarrollo software y algún tip para el desafío
 
 2. 02-Data_Analysis/01-Numpy/02-Practica incluye:
 
@@ -15,10 +15,12 @@
 
 ### Hoy en clase veremos:
 
-* Revisar la parte final de la Teoría de Numpy (altura de los presidentes de EEUU y leer imágenes en Numpy)
+* Revisar la parte final de la Teoría de Numpy (creación de arrays con dtype e índices)
 
-* Solución de un par de problemas sencillos de Numpy
+* Algebra Lineal: sistemas de ecuaciones
 
-* Algebra Lineal (repaso de Numpy, en verdad)
+* Pandas
+
+* Fases del ciclo de desarrollo software
 
 
