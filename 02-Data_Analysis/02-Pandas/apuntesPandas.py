@@ -113,3 +113,69 @@ print(data[data['pop'] > 20_000_000]['area'])
 # La diferencia es que uno devuvlve un type serie y otro devuelve un dataframe
 
 # El iloc no se usa demasiado
+
+
+#---------------------------- OPERAR CON DATOS EN PANDAS--------------------------------
+
+rng = np.random.RandomState(42) # Equivalente a seed
+df = pd.DataFrame(rng.randint(0, 10, (3, 4)),
+                  columns=['A', 'B', 'C', 'D'])
+ser = pd.Series(rng.randint(0, 10, 4))
+
+np.exp(ser) # hacemos la exponencial
+# Si aplicamos una Ufunc NumPy sobre cualquiera de estos objetos, el resultado sera otro objeto Pandas con los indices conservados
+# Ufunc := Funciones universales, seno, cos, suma, resta,etc...
+
+A = pd.Series([2, 4, 6], index=["andalucia", "aragon", "madrid"])
+B = pd.Series([1, 3, 5], index=["aragon", "madrid", "asturias"])
+# Si en una operacion no coinciden los indices devuvle un NaN
+print(A + B) # Buscar sumar lsa coincidencias y devuelva NaN si es unico
+# Ah no ser que hagamos:
+A.add(B, fill_value=0)
+
+#Otro ejemplo
+fill = A.values.mean()
+A.add(B, fill_value=fill)
+
+"""
+| Python Operador | Pandas Method(s)                      |
+|-----------------|---------------------------------------|
+| ``+``           | ``add()``                             |
+| ``-``           | ``sub()``, ``subtract()``             |
+| ``*``           | ``mul()``, ``multiply()``             |
+| ``/``           | ``truediv()``, ``div()``, ``divide()``|
+| ``//``          | ``floordiv()``                        |
+| ``%``           | ``mod()``                             |
+| ``**``          | ``pow()``                             |
+"""
+
+A = rng.randint(10, size=(3, 4))
+print(A, A - A[0]) # Es equivalente a una operacion con matrices
+
+"""
+| Typeclass     | Conversión al almacenar NA | NA Valor nulo     |
+|--------------|-----------------------------|------------------------|
+| ``floating`` | Sin cambios                   | ``np.nan``             |
+| ``object``   | Sin cambios                   | ``None`` or ``np.nan`` |
+| ``integer``  | Cambia a ``float64``         | ``np.nan``             |
+| ``boolean``  | Cambia a ``object``          | ``None`` or ``np.nan`` |
+"""
+data = pd.Series([1, np.nan, 'hello', None])
+data.isnull() # Genera una mascara booleana que indica valores perdidos
+data.notnull() # Lo contrario de isnull()
+data.dropna() # Devuelve una version filtrada de los datos
+data.fillna(0) #Devuelve una copia de los datos con los valores perdidos rellenados o imputados
+
+
+df[3] = np.nan
+df.dropna(axis='columns', how='all') # el valor predeterminado es how='any', all solo eliminara las filas o columnas que sean todos valores nulos
+# de forma default con el any descartara cualquier fila o columna que tenga valor nulo, dependiendo del axis.
+df.dropna(axis='rows', thresh=3) # Permite especificar un umero minimo de valores no nulos para la fila/columna que se desea conservar
+
+
+data = pd.Series([1, np.nan, 2, None, 3], index=list('abcde'))
+data.ffill() # propaga el valor anterior hacia delante, siempre que encuentre NaN o null
+data.bfill() # Lo mismo pero hacia atras
+#df.fillna(method='bfill', axis=1) # Esto es alternativo, especificando el metodo
+
+np.inf # El infinito
