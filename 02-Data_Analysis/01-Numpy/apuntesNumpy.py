@@ -2,9 +2,10 @@
 
 import numpy as np # np es el convenio para abreviar numpy
 
-#help(np) # para la ayuda
-#help(np.random) # Para una ayuda mas especifica
-
+'''help(np) # para la ayuda
+help(np.random) # Para una ayuda mas especifica
+np.info(np.concatenate) # Para obtener la documentacion de concatenate
+'''
 array = np.array([1,2,3,4,5,6,7,8,9])
 print(array* 10) # a diferencia de antes ahora podemos operar a la vez todos los numeros de un array
 
@@ -138,3 +139,11 @@ A = np.array([[1, 2, 3],
               [6, -3, 1]])
 b = np.array([6, 4, 2])
 variables = np.linalg.solve(A, b) # Resolver sistemas de ecuaciones
+
+
+# ¿Como leer imagenes?
+from skimage.io import imread
+import matplotlib.pyplot as plt
+
+imagen_a_leer = imread('02-Data_Analysis/01-Numpy/01-Teoria/img/numpy.png') # Ponemos la url de la imagen
+plt.imshow(imagen_a_leer) # En ipynb se ve bien, en la terminal solo se ve el array de la imagen
