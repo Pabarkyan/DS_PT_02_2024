@@ -1,4 +1,4 @@
-# Apuntes Numpy, clase 04/3/2024
+# Apuntes Numpy, clase 04/3/2024    
 
 import numpy as np # np es el convenio para abreviar numpy
 
@@ -53,7 +53,7 @@ print(array[0, -1, -1]) #30
 
 
 l = np.arange(10)
-print("Del primer elemento al quinto", l[0:5])
+print("Del primer elemento al quinto", l[0:5]) 
 print("Del primero al quinto con saltos de dos", l[0:5:2])
 print("Desde el quinto", l[5::])
 print("Desde el quinto", l[5:]) # equivalente
@@ -147,3 +147,5 @@ import matplotlib.pyplot as plt
 
 imagen_a_leer = imread('02-Data_Analysis/01-Numpy/01-Teoria/img/numpy.png') # Ponemos la url de la imagen
 plt.imshow(imagen_a_leer) # En ipynb se ve bien, en la terminal solo se ve el array de la imagen
+
+
