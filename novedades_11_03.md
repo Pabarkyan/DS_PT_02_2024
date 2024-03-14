@@ -5,7 +5,7 @@
 
 ### Hoy en clase veremos:
 
-* Estaditica descriptiva
+* Estadistica descriptiva
 
 * Pandas:
     * Índices (más en detalle con SQL)
