@@ -179,3 +179,47 @@ data.bfill() # Lo mismo pero hacia atras
 #df.fillna(method='bfill', axis=1) # Esto es alternativo, especificando el metodo
 
 np.inf # El infinito
+
+
+# Para que se vean los pandas de izquierda a derecha, es un merge
+class display(object):
+    """Mostrar la representación HTML de varios objetos"""
+    template = """<div style="float: left; padding: 10px;">
+    <p style='font-family:"Courier New", Courier, monospace'>{0}</p>{1}
+    </div>"""
+    def __init__(self, *args):
+        self.args = args
+        
+    def _repr_html_(self):
+        return '\n'.join(self.template.format(a, eval(a)._repr_html_())
+                         for a in self.args)
+    
+    def __repr__(self):
+        return '\n\n'.join(a + '\n' + repr(eval(a))
+                           for a in self.args)
+    
+df1 = pd.DataFrame({'employee': ['Bob', 'Jake', 'Lisa', 'Sue'],
+                    'group': ['Accounting', 'Engineering', 'Engineering', 'HR']})
+df2 = pd.DataFrame({'empleado': ['Lisa', 'Bob', 'Jake', 'Sue'],
+                    'hire_date': [2004, 2008, 2012, 2014]})
+(display('df1', 'df2')) # Ver mejor en un jupyter notebook
+# Si empleado y employee tienen nombres distintos pero refieren a lo mismo display funcionaria pero merge no
+df3 = pd.merge(df1, df2, left_on=['employee'], right_on=["empleado"]) # o hacemos esto, pero duplica las columnas
+
+# Podemos tambien, cambiarle el nombre: 
+df1.columns = ['empleado', 'group']
+df3 = pd.merge(df1, df2, on=["empleado"]) # y volvemos a hacer el merge
+
+
+df6 = pd.DataFrame({'name': ['Peter', 'Paul', 'Mary'],
+                    'food': ['fish', 'beans', 'bread']},
+                   columns=['name', 'food'])
+df7 = pd.DataFrame({'name': ['Mary', 'Joseph'],
+                    'drink': ['wine', 'beer']},
+                   columns=['name', 'drink'])
+display('df6', 'df7', 'pd.merge(df6, df7)') # how = inner por defecto, es decir coge solo los iguales
+display('df6', 'df7', "pd.merge(df6, df7, how='outer')")
+
+# Las opciones *left join* y *right join* devuelven uniones sobre las entradas de la izquierda y la derecha, respectivamente.
+display('df6', 'df7', "pd.merge(df6, df7, how='left')")
+display('df6', 'df7', "pd.merge(df6, df7, how='right')")
