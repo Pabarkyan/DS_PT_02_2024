@@ -14,8 +14,8 @@
 * Semana Santa, por orden de prioridad absoluta: 
 
   * Descansar
-  * Ponerse al día con las entregas
-  * Descansar y comer Torrijas, con leche vegetal si procede
+  * Ponerse al día con las entregas, si procede 
+  * Descansar y como Torrijas, con leche vegetal si procede
   * Consolidar Pandas
   * Descansar
   * Pensar en el Proyecto Opcional, si procede
