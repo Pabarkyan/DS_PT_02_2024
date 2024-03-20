@@ -8,6 +8,10 @@
 
 ### Hoy en clase veremos:
 
+* Todo el mundo que entregó el Hundir La Flota tiene feedback al respecto
+    * Quienes no entregaron pueden enviar lo que tengan para recibir feedback/pistas/ayuda
+    * No lo dejéis para abril
+
 * RECORDATORIO: La siguiente entrega será después de Semana Santa y estará relacionado con EDA (Exploratory Data Analysis), es decir, elegir datos de alguna fuente, a ser posible de vuestro interés, y plantear hipótesis sobre los mismos. Es decir: buscar un tema que os interese, que tenga datos disponibles y algunas hipótesis sobre los mismos
 
   * Ejemplo Red Electrica Española
