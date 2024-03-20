@@ -1,5 +1,6 @@
-﻿operación;tipo
-crédito;visa
-crédito;mastercard
-débito;visa
-débito;mastercard
+﻿cod;sub;operación;tipo
+200;10;crédito;visa
+250;20;crédito;mastercard
+200;10;débito;visa
+250;20;débito;mastercard
+175;10;planes de pensiones;ahorro
