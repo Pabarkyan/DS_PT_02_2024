@@ -2,6 +2,7 @@
 
 * 02-Data_Analysis/03-Sources/02-Web
 
+* 02-Data_Analysis/00-Matematicas_DS/02-Practica/Anscombes
 
 ### Hoy en clase veremos:
 
@@ -25,6 +26,7 @@
 
 * Hoy en clase: 
   * Kahoot
+  * El Quarteto de Anscombe
   * XML
   * SFTP
   * Web Scraping
