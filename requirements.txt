@@ -1,0 +1,7 @@
+ipywidgets
+matplotlib
+scikit-learn
+squarify
+seaborn>=0.13.0
+folium
+plotly==5.20.0
