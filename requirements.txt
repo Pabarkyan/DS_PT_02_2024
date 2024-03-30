@@ -5,3 +5,6 @@ squarify
 seaborn>=0.13.0
 folium
 plotly==5.20.0
+wordcloud
+nbformat>=4.2.0
+Mime
