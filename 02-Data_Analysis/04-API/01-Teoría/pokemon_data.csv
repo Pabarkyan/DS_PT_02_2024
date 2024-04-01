@@ -1,0 +1,10 @@
+name,url,types,abilities,hp,attack,defense,special-attack,special-defense,speed,is_legendary,generation,hidden_ability,primary_type,weight,height
+bulbasaur,https://pokeapi.co/api/v2/pokemon/1/,"grass, poison","overgrow, chlorophyll",45,49,49,65,65,45,False,generation-i,chlorophyll,grass,69,7
+ivysaur,https://pokeapi.co/api/v2/pokemon/2/,"grass, poison","overgrow, chlorophyll",60,62,63,80,80,60,False,generation-i,chlorophyll,grass,130,10
+venusaur,https://pokeapi.co/api/v2/pokemon/3/,"grass, poison","overgrow, chlorophyll",80,82,83,100,100,80,False,generation-i,chlorophyll,grass,1000,20
+charmander,https://pokeapi.co/api/v2/pokemon/4/,fire,"blaze, solar-power",39,52,43,60,50,65,False,generation-i,solar-power,fire,85,6
+charmeleon,https://pokeapi.co/api/v2/pokemon/5/,fire,"blaze, solar-power",58,64,58,80,65,80,False,generation-i,solar-power,fire,190,11
+charizard,https://pokeapi.co/api/v2/pokemon/6/,"fire, flying","blaze, solar-power",78,84,78,109,85,100,False,generation-i,solar-power,fire,905,17
+squirtle,https://pokeapi.co/api/v2/pokemon/7/,water,"torrent, rain-dish",44,48,65,50,64,43,False,generation-i,rain-dish,water,90,5
+wartortle,https://pokeapi.co/api/v2/pokemon/8/,water,"torrent, rain-dish",59,63,80,65,80,58,False,generation-i,rain-dish,water,225,10
+blastoise,https://pokeapi.co/api/v2/pokemon/9/,water,"torrent, rain-dish",79,83,100,85,105,78,False,generation-i,rain-dish,water,855,16
