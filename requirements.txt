@@ -9,3 +9,5 @@ wordcloud
 nbformat>=4.2.0
 Mime
 python-dateutil
+sqlite3
+pymysql
