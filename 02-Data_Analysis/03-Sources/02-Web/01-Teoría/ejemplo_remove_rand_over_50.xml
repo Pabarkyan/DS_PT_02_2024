@@ -18,4 +18,11 @@
         <gdppc>59900</gdppc>
         <neighbor name="Malaysia" direction="N" />
     </country>
+    <country name="Panama">
+        <rank updated="yes">49</rank>
+        <year>2011</year>
+        <gdppc>13600</gdppc>
+        <neighbor name="Costa Rica" direction="W" />
+        <neighbor name="Colombia" direction="E" />
+    </country>
     </data>
