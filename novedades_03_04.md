@@ -1,21 +1,15 @@
 # Novedades respecto a la clase anterior
 
-* 02-Data_Analysis/04-API
 
-* 02-Data_Analysis/05-Visualización
 
-* 02-Data_Analysis/06-Feature_enginerring
-
-* 02-Data_Analysis/07-Bases de Datos
+* 02-Data_Analysis/07-Bases de Datos: SQL y NoSQL
 
 * Ejercicios/enlaces a ejercicios para todo lo estudiado
 
-* Feedback Hundir la Flota
-
 * 99-Extra
 
-  * Enlaces de interés: enlaces a fuentes de datos estadísticos
-  * EDA_Penguins: ejemplo de EDA
+  * Libros gratis y legales (pero en inglés) de estadística básica y aplicada a ML
+  * Video de la primera red convolucional
 
 ### Hoy en clase veremos:
 
@@ -30,9 +24,9 @@
 
 
 * Hoy en clase: 
-  * Falacias (más adelante veremos sesgos)
-  * Pip requirements y freeze
-  * APIs
-  * Visualización    
+  * Ejemplo pandas + visualización: cotización de los FAANG
+  * Seaborn
+  * Plotly
+  * Folium
 
 

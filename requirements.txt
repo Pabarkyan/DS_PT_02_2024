@@ -9,5 +9,8 @@ wordcloud
 nbformat>=4.2.0
 Mime
 python-dateutil
-sqlite3
+sqlite4
 pymysql
+geocoder
+geopy
+vega_datasets
