@@ -2,9 +2,11 @@
 
 
 
-* 02-Data_Analysis/07-Bases de Datos: SQL y NoSQL
+* 02-Data_Analysis/06-BI: streamlit (Habrá otra sesión con PowerBI y/o Tableau)
 
-* Ejercicios/enlaces a ejercicios para todo lo estudiado
+* 02-Data_Analysis/09-Analisis_de_datos: serie de notebooks prácticos sobre Data Analysis
+
+* 02-Data_Analysis/05-Visualización/O2-Práctica: ejemplos de Pandas + Visualización + Estadística para hacer en calse
 
 * 99-Extra
 
@@ -22,11 +24,20 @@
   * Hipótesis: diferencias de consumo entre el norte fresco y sur caluroso en verano, mayor producción renovable días viento y sol...
 
 
+* Vamos con cierto adelanto en el temario y aunque es positivo que sea así porque dejará más tiempo para 
+
+  * Deep Learning
+  * Data Engineering
+
+  También vamos a aprovechar para dedicar más tiempo a consolidar con ejercicios prácticos:
+
+  * Pandas
+  * Visualización
+  * Estadística 
+
 
 * Hoy en clase: 
-  * Ejemplo pandas + visualización: cotización de los FAANG
-  * Seaborn
-  * Plotly
-  * Folium
-
+  * Ejemplo Pandas + Visualización + Estadística sobre la altura media en España/Portugal/Francia/Suecia 
+  * Streamlit
+  * Regex
 
