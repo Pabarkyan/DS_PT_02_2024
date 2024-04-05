@@ -33,7 +33,7 @@
 
   * Pandas
   * Visualización
-  * Estadística 
+  * Estadística (que servirá como "excusa" para hablar de ML)
 
 
 * Hoy en clase: 
