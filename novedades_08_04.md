@@ -3,6 +3,8 @@
 
 * 02-Data_Analysis/010_EDA: ejemplos Customer Lifetime Value, Centros Especialización New York y la Paradoja de Simpsons
 
+* Feedback entregas
+
 ### Hoy en clase veremos:
 
 
