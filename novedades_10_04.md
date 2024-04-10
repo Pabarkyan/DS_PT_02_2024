@@ -5,6 +5,8 @@
 
 * Feedback entregas
 
+* Tutorias sábado. 9.30 -14.30
+
 ### Hoy en clase veremos:
 
 
