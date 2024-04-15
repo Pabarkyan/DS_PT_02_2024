@@ -4,7 +4,7 @@ from PIL import Image
 import streamlit.components.v1 as c
 
 # streamlit run c:/TheBridge/DS_PT_02_2024/02-Data_Analysis/06-BI/main.py
-st.set_page_config(page_title="Cargadores",
+st.set_page_config(page_title="Cargadores", 
                    page_icon=":electric_plug:")
 
 seleccion = st.sidebar.selectbox("Selecciona menu", ['Home','Datos'])
