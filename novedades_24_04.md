@@ -7,6 +7,7 @@
 * Tutorias sábado. 9.30 -14.30
 
 * Ejercicios sábado: enviad preferenias a Orlando
+  * Requisitos mínimos de viabilidad de un DataFrame?
 
 ### Hoy en clase veremos:
 
