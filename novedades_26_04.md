@@ -4,11 +4,13 @@
 
 * 03-Machine_Learning: Introducción
 
-* Tutorias sábado. 9.30 -14.30
+* Tutorias sábado. 9.30 -14.30 [descargar datos](https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions)
 
 * Ejercicios sábado: 
   * ejercicio_dataframe_tutorias
   * ejercicios_entrega_sql_II: queries anidadas
+
+  
 
 ### Hoy en clase veremos:
 
