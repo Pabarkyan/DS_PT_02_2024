@@ -15,3 +15,5 @@ geocoder
 geopy
 vega_datasets
 streamlit
+certifi
+pymongo
