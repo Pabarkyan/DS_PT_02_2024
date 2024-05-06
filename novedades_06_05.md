@@ -2,12 +2,8 @@
 
 
 * 03-Machine_Learning
-  * Introducción supervisado
-  * Introducción regresión lineal simple
+  * Regresión lineal simple y múltiple
 
-* Ejercicios sábado: 
-  * ejercicio_dataframe_tutorias
-  * ejercicios_entrega_sql_II: queries anidadas
 
   
 
@@ -17,10 +13,8 @@
 * Entrega 11 de mayo
   * Incluse presentación 15 minutos
   * No lo dejes para el final!
-  * No arruines el puente de mayo!
   * La presentación es el 11 de mayo, para el resto hay más flexibilidadad
 
 * Hoy en clase: 
-  * [SQLite](https://sqlitebrowser.org/dl/)
-  * Introducción a ML
+  * Regresión lineal simple y múltiple
 
