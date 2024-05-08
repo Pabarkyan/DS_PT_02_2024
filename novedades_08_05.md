@@ -4,7 +4,8 @@
 * 03-Machine_Learning
   * Regresión lineal avanzada
 
-
+* 05-Ejercicios:
+  * Ejercicio de Regresión Lineal
   
 
 ### Hoy en clase veremos:
