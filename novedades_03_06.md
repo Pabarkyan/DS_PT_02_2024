@@ -17,8 +17,6 @@ Revisado notebooks de Bagging and Pasting y Random Forest.
   * Lunes: comparativa regresión lineal/árboles regresión  (está en 04-Ejercicios)
   * Miércoles: comparativa regresión logística/árboles clasificación
 
-* Este sábado tutorias
-  * Si nadie más se apunta, desde las 10 estaré haciendo ejercicios de sintáxis 
 
 * Hoy en clase: 
   * Comparativa regresión lineal/arboles decision
