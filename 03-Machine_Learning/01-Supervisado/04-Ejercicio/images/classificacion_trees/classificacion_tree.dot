@@ -4,6 +4,7 @@ edge [fontname="helvetica"] ;
 0 [label="flipper_length_mm <= 206.5\ngini = 0.641\nsamples = 259\nvalue = [112, 54, 93]\nclass = Biscoe", fillcolor="#fcf1e8"] ;
 1 [label="culmen_length_mm <= 44.65\ngini = 0.453\nsamples = 164\nvalue = [110, 51, 3]\nclass = Biscoe", fillcolor="#f1bd98"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+<<<<<<< HEAD
 2 [label="culmen_depth_mm <= 16.65\ngini = 0.085\nsamples = 113\nvalue = [108, 5, 0]\nclass = Biscoe", fillcolor="#e68742"] ;
 1 -> 2 ;
 3 [label="culmen_length_mm <= 39.5\ngini = 0.32\nsamples = 10\nvalue = [8, 2, 0]\nclass = Biscoe", fillcolor="#eca06a"] ;
@@ -15,6 +16,19 @@ edge [fontname="helvetica"] ;
 6 [label="flipper_length_mm <= 200.5\ngini = 0.057\nsamples = 103\nvalue = [100, 3, 0]\nclass = Biscoe", fillcolor="#e6853f"] ;
 2 -> 6 ;
 7 [label="culmen_length_mm <= 37.85\ngini = 0.04\nsamples = 98\nvalue = [96.0, 2.0, 0.0]\nclass = Biscoe", fillcolor="#e6843d"] ;
+=======
+2 [label="Dream <= 0.5\ngini = 0.085\nsamples = 113\nvalue = [108, 5, 0]\nclass = Biscoe", fillcolor="#e68742"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 68\nvalue = [68, 0, 0]\nclass = Biscoe", fillcolor="#e58139"] ;
+2 -> 3 ;
+4 [label="gini = 0.198\nsamples = 45\nvalue = [40, 5, 0]\nclass = Biscoe", fillcolor="#e89152"] ;
+2 -> 4 ;
+5 [label="gini = 0.181\nsamples = 51\nvalue = [2, 46, 3]\nclass = Dream", fillcolor="#4ee88e"] ;
+1 -> 5 ;
+6 [label="culmen_depth_mm <= 15.65\ngini = 0.101\nsamples = 95\nvalue = [2, 3, 90]\nclass = Torgersen", fillcolor="#8844e6"] ;
+0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+7 [label="gini = 0.0\nsamples = 65\nvalue = [0, 0, 65]\nclass = Torgersen", fillcolor="#8139e5"] ;
+>>>>>>> 85635ca2071bfde6cbdd53ca852634aaae2ca721
 6 -> 7 ;
 8 [label="culmen_length_mm <= 37.75\ngini = 0.1\nsamples = 38\nvalue = [36, 2, 0]\nclass = Biscoe", fillcolor="#e68844"] ;
 7 -> 8 ;
