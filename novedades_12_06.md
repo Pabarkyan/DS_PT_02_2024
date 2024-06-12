@@ -3,6 +3,7 @@
 
 Notebooks:
 
+* Stacking
 * SVM: Support Vector Machine
 * k-NN: K-Nearest Neighbors
 
@@ -16,4 +17,4 @@ Notebooks:
 
 * Hoy en clase: 
   * XGBoost
-  * SVM
+  * Stacking
