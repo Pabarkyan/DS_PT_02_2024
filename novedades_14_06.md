@@ -15,7 +15,7 @@ Notebooks:
   * Será formato presentación (80%) así que no os "calentéis" con el código
 
 * Tutorias
-
+  * Podéis mirar Repaso Supervisado
 
 * Hoy en clase: 
   * KNN iris
