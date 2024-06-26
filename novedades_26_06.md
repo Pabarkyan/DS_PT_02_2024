@@ -10,7 +10,9 @@
   * No lo dejéis para el final
   * Será formato presentación (80%) así que no os "calentéis" con el código
 
+* Tutorías este sábado!
 
 * Hoy en clase: 
-  * PCA
+  * Ejemplo PCA imágenes
+  * Ejemplo PCA Alquiler Compra 
   * Feature Selection
