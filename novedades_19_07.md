@@ -12,6 +12,7 @@
     * Cloud 
     * Big Data/Spark
     * Kedro
+    * Docker
 
 * Temas Avanzados (hasta donde lleguemos)
   * Redes neuronales
