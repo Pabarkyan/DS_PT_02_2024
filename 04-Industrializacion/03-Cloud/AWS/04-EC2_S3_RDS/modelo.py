@@ -4,9 +4,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 
 
-host = "AAA"
-username = "AAA"
-password = "AAA"
+
 port = 3306
 
 engine = create_engine("mysql+pymysql://{user}:{pw}@{host}/{db}".format(user = username, 
@@ -25,9 +23,7 @@ dt["prediction"] = rf.predict(X)
 
 import boto3
 from io import StringIO
-session = boto3.Session(
-
-)
+session = boto3.Session()
 s3 = session.client('s3')
 
 csv_buffer = StringIO()
