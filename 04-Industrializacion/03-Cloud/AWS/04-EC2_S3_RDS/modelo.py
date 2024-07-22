@@ -4,9 +4,9 @@ import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 
 
-host = "bbdd.cfkqgqewqs0y.eu-north-1.rds.amazonaws.com"
-username = "admin"
-password = "Bootcamp2024$"
+host = "AAA"
+username = "AAA"
+password = "AAA"
 port = 3306
 
 engine = create_engine("mysql+pymysql://{user}:{pw}@{host}/{db}".format(user = username, 
@@ -26,9 +26,7 @@ dt["prediction"] = rf.predict(X)
 import boto3
 from io import StringIO
 session = boto3.Session(
-    aws_access_key_id="AKIA6ODU3WOOA4TQ4W2D",
-    aws_secret_access_key="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",
-    region_name="eu-north-1"
+
 )
 s3 = session.client('s3')
 
