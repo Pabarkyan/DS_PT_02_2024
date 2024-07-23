@@ -6,7 +6,7 @@
 * Resto de mes:
 
 * 04-Industrializacion
-    * YMAL
+    * YAML
     * Kedro
     * Docker
 

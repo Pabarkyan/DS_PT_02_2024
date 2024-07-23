@@ -13,3 +13,9 @@ names:
   - Jonathan
   - Yonatan
   - Yonathan
+  
+logistic: 
+  max_iter: 1000
+
+decissionTree:
+  max_depth: 4
