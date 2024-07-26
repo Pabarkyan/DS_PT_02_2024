@@ -8,9 +8,6 @@
 
 * Resto de mes:
 
-* 04-Industrializacion
-    * Docker
-
 * Temas Avanzados (hasta donde lleguemos)
   * Redes neuronales
   * IA generativa
@@ -19,7 +16,10 @@
 
 * Lunes 29. Última entrega: Flask
 
+* Miércoles 31:
+  * Feedback al gusto
+  * Fly on the wall
+  * Última encuesta
+
 * Hoy en clase: 
-  * Docker
-  * MLP
   * Keras
