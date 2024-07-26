@@ -13,8 +13,8 @@ names:
   - Jonathan
   - Yonatan
   - Yonathan
-
-logistic:
+  
+logistic: 
   max_iter: 1000
 
 decissionTree:
