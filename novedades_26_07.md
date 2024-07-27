@@ -1,6 +1,5 @@
 # Novedades respecto a la clase anterior
 
-* MLP
 * Red Neuronal Sequencial
 * CNN
 
@@ -20,6 +19,7 @@
   * Feedback al gusto
   * Fly on the wall
   * Última encuesta
+  * Último Kahoot
 
 * Hoy en clase: 
   * Keras
