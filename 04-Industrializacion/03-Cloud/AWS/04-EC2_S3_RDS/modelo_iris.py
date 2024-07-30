@@ -3,11 +3,15 @@ import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 from sqlalchemy import create_engine
+import os
+from dotenv import load_dotenv
 
-host = "database-iris.c5i0egymsxi4.eu-north-1.rds.amazonaws.com"
-username = "admin"
-password = "contrasena_contrasena"
-port = 3306
+load_dotenv()
+
+host = os.getenv('HOST_1')
+username = os.getenv('USERNAME_1')
+password = os.getenv('PASSWORD_1')
+port = os.getenv('PORT_1')
 
 db = pymysql.connect(host = host,
                      user = username,
